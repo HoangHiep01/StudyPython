@@ -48,6 +48,7 @@ example1.append("Dog")
 print (example1)
 
 # insert(index, object) Insert object before index
+print("insert")
 example1.insert(0,"Fish")
 print (example1)
 example1.insert(2, "Bird")
